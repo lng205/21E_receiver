@@ -1,0 +1,4 @@
+vhdl xil_defaultlib  \
+"../../../../receive_v0.gen/sources_1/ip/div_gen_0/sim/div_gen_0.vhd" \
+
+nosort
